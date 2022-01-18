@@ -20,6 +20,7 @@ import re
 
 # figure out how to get links with chinese characters
 #just one page
+#testing git commit
 """
 url = "https://mojim.com/cny100040x90x1"
 page= requests.get(url) 
